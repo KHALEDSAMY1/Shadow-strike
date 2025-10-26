@@ -21,3 +21,4 @@ A fast-paced target shooting game inspired by the Solo Leveling universe, built 
 - **Survive 10 seconds** and maximize your score!
 
 Perfect for Python game development learners and Solo Leveling fans!
+#python #pygame #gamedevelopment #solo-leveling #arcade-game #coding
